@@ -1,0 +1,15 @@
+# Modelli e build pesanti
+models/
+imatrix/
+llama.cpp/
+
+# Ambiente virtuale Python
+.venv/
+
+# Cache e file temporanei
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# File di sistema
+.DS_Store
